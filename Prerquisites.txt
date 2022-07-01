@@ -1,0 +1,4 @@
+ 1. az login       -----> login to azure account
+ 2. az account list -----> list of azure accounts
+ 3. az account set --subscription="b7045f52-80a3-4878-ac46-ffaf315fbe2d"      ---------> set to a particular subscription
+ az account list-locations -o table             --------------------> available locations to create the infrastructure under the subscription
